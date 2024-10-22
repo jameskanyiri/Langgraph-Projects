@@ -2,3 +2,8 @@ langchain
 langgraph
 langchain-openai
 python-dotenv
+langsmith
+pandas
+matplotlib
+langchain_community
+langchain_experimental
